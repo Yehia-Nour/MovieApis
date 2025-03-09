@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Mvc;
+global using System.ComponentModel.DataAnnotations;
+global using MoviesApi.Models;
+global using MoviesApi.Data;
+global using MoviesApi.Services;
+global using MoviesApi.Repositories;
+global using MoviesApi.DTOs;
+global using AutoMapper;

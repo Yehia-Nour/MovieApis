@@ -1,0 +1,73 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Ignore future changes to .vs but keep existing files
+.vs/*
+
+# Rider project files
+.idea/
+
+# ASP.NET Core secrets
+*.secret.json
+
+# Logs
+*.log
+logs/
+
+# Transient files
+*.swp
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Azure Pipelines
+.pipelines/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Mac OS files
+.DS_Store
+
+# Linux files
+*~
+
+# Rider and VSCode settings
+.idea/
+.vscode/
+
+# Published website outputs
+wwwroot/
+
+# Dependency manager files
+node_modules/
+
+# Config files
+appsettings.*.json
+appsettings.json
+
+# Temporary files
+*.tmp
+*.bak
+
+# Git settings
+*.orig
+*.rej
+
+# Backup files
+*.bak
+*.old
